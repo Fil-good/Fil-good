@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Fil-good,
 
-[my picture after the bootcamp organized by the Wagon]()
+[my picture after the bootcamp organized by the Wagon](https://res.cloudinary.com/dz243iddc/image/upload/v1638956641/WIN_20211207_11_26_21_Pro_ftrlpe.jpg)
+
 - 👀 I’m interested in Ruby, JavaScript, blockchain tech
 - 🌱 I’m currently learning Ruby, JavaScript
 - 💞️ I’m looking to collaborate on blockchain projects in the future
