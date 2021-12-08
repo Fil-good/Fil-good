@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Fil-good :smile:,
 
-# Introduction
+## Introduction
+
+Yo guys, 
+After 15 years of recruitment within Hays, it was time to change to the other 
 
 
 ## Career Switch - Latest experiences
