@@ -21,4 +21,4 @@ production a clone of AirBnB and a Rails prototype of $URL_TO_YOUR_PROJECT.
 
 
 
-![my picture after the bootcamp organized by the Wagon](https://res.cloudinary.com/dz243iddc/image/upload/v1638956641/WIN_20211207_11_26_21_Pro_ftrlpe.jpg/github-light.png#gh-dark-mode-only)
+![GitHub Light](https://res.cloudinary.com/dz243iddc/image/upload/v1638956641/WIN_20211207_11_26_21_Pro_ftrlpe.jpg/github-light.png#gh-dark-mode-only)
