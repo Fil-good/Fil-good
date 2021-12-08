@@ -6,7 +6,7 @@ Yo guys,
 
 After 15 years of recruitment within Hays, it was time to move to the other side of the table. An important reason for this is the lack of developers in the market 😀, but even more important, I needed a new challenge. 
 
-In 2020, I started discovering the youtube channel of IvanOnTech, a former blockchain developer who devoted himself at that time to educating his listeners in different subjects, from general finance theory, central bank governance, to supply chain (see VeChain, crypto asset), DeFi, basic blockchain theory, the working of an automated market maker (AMM), ..   
+In 2020, I started discovering the youtube channel of IvanOnTech, a former blockchain developer who devoted himself at that time to educating his viewers in different subjects, from general finance theory, central bank governance, to supply chain (see VeChain, crypto asset), DeFi, basic blockchain theory, the working of an automated market maker (AMM), ..   
 Although a developer, this guy combines both technical and fantastic communication skills, but moreover, he gets straight to the point in a genuine way. I recommend warmly to look up his website [Moralis.io](https://moralis.io/).
 
 So I started learning basic blockchain theory, html, css, and JavaScript on the platform IvanOnTech. 
