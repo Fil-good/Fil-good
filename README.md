@@ -7,11 +7,10 @@ Yo guys,
 After 15 years of recruitment within Hays, it was time to move to the other side of the table. An important reason for this is the lack of developers in the market 😀, but even more important, I needed a new challenge. 
 
 In 2020, I started discovering the youtube channel of IvanOnTech, a former blockchain developer who devoted himself at that time to educating his viewers in different subjects, from general finance theory, central bank governance, to supply chain (see VeChain, crypto asset), DeFi, basic blockchain theory, the working of an automated market maker (AMM), ..   
-Although a developer, this guy combines both technical and fantastic communication skills, but moreover, he gets straight to the point in a genuine way. I recommend warmly to look up his website [Moralis.io](https://moralis.io/).
 
-So I started learning basic blockchain theory, html, css, and JavaScript on the platform IvanOnTech. 
+So I started learning basic blockchain theory, html, css, and JavaScript on the platform of Moralis. 
 
-In this Covid period, starting beginning 2020, and continuing until late 2021, I had plenty of time to reflect on the mid-career (mid-life?) questions. I came across a bootcamp organized in Brussels, where I live.. 
+In this Covid period, starting beginning 2020, and continuing until late 2021, I had plenty of time to reflect on the mid-career questions. I came across a bootcamp organized in Brussels, where I live.. and a bootcamp that has a high rating.
 
 
 ## Career Switch - Le Wagon and further on..
@@ -27,18 +26,18 @@ Le Wagon has a highly performing team in Brussels. A special thanks I would like
 
 Giving all basic elements to manage the creation of a 'simple' or even more complex website (with some API, some Javascript), all knowledge is assimilated a first time in the cloning exercise of the site of AirBnB, in one week time. The last two weeks were destined to design our own project, chosen from 9 pitched projects, of which 5 survived. 
 
-In our team, with Adonis Goushchi, Thibaut Butaye, and my brother 😂, Nicolas Brouwers, we had a lot of fun, but also, we learned a lot, not only code, but also working together on Git and Github. I hope we'll meet soon again. 
+In our team, with Adonis Goushchi, Thibaut Butaye, and Nicolas Brouwers, we had a lot of fun, but also, we learned a lot, not only code, but also working together on Git and Github. I hope we'll meet soon again. 
 
 
 ## Interests 
 
 - 👀 I’m interested in Ruby, JavaScript, blockchain tech
-- 🌱 I’m currently learning Ruby, JavaScript
+- 🌱 I’m currently learning JavaScript
 
 
 ## Next steps - Short Term
 
-- 💞️ I’m looking to collaborate on blockchain/ crypto projects in the future
+- 💞️ I’m looking to collaborate on software development projects, within JavaScript/Ruby/HTML/CSS/.. 
 - 📫 How to reach me ... drop me a line on github!
 
 
