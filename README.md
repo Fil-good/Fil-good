@@ -42,4 +42,4 @@ In our team, with Adonis Goushchi, Thibaut Butaye, and Nicolas Brouwers, we had 
 
 
 
-![GitHub Light](https://res.cloudinary.com/dz243iddc/image/upload/v1638956641/WIN_20211207_11_26_21_Pro_ftrlpe.jpg)
+
