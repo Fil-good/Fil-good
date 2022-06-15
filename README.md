@@ -1,8 +1,6 @@
 ## Introduction
 
-👋 Hi, I’m @Fil-good :smile:,
-
-Yo guys, 
+Yo, 
 
 After 15 years of recruitment within Hays, it was time to move to the other side of the table. An important reason for this is the lack of developers in the market 😀, but even more important, I needed a new challenge. 
 
