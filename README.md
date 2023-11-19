@@ -26,12 +26,11 @@ In our team, with Adonis Goushchi, Thibaut Butaye, and Nicolas Brouwers, we had 
 ## Interests 
 
 - 👀 I’m interested in Ruby-on-Rails, JavaScript, Angular, ..  
-- 🌱 I’m currently learning JavaScript, Angular
+- 🌱 I’m currently learning React, and after that .. Vue / Nuxt ;-) It's never ending!!!!
 
 
 ## Next steps - Short Term
 
-- 💞️ I’m looking to collaborate on software development projects, within JavaScript/Ruby/HTML/CSS/.. 
 - 📫 How to reach me ... drop me a line on github!
 
 
